@@ -21,10 +21,10 @@ I enjoy experimenting with modern AI tools, participating in open-source ecosyst
 ## 🚀 Projects
 
 ### 🎙️ AI Video to Subtitle Generator
-A tool designed to seamlessly extract audio from video files and generate highly accurate subtitles by leveraging the **Groq API**. Built for speed and precision.
+A tool designed to seamlessly extract audio from video files and generate highly accurate subtitles by leveraging the **OpenAI Whisper** by **Groq API**. Built for speed and precision.
 
 ### 🎬 AI Video Generator
-An experimental project exploring generative AI by utilizing open-source models from **Hugging Face** to synthesize video content based on prompt inputs.
+An experimental project exploring generative AI by utilizing **CogVideoX-2B** an open-source model from **Hugging Face** to synthesize video content based on prompt inputs.
 
 ### 🤖 Clunde Chatbot
 A conversational, interactive AI chatbot interface built using **Puter.js** to handle user queries and simulate intelligent dialogue seamlessly.
