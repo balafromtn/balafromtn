@@ -10,24 +10,24 @@
 
 ## 👋 Hey, I'm Balaji
 
-B.Sc. Computer Science Student focused on building clean software and exploring artificial intelligence solutions. 
+I'm a B.Sc. Computer Science student passionate about AI, software development, and building practical projects that solve real-world problems.
 
-I enjoy experimenting with modern AI tools, participating in open-source ecosystems, and transforming complex programming concepts into practical web applications. I am actively working on expanding my full-stack knowledge and technical problem-solving skills.
+Currently, I'm exploring machine learning, automation, and full-stack development while strengthening my programming fundamentals. I enjoy turning ideas into working applications, contributing to open-source projects, and continuously learning new technologies.
 
-🔭 Currently contributing to: **Social Summer of Code (SSoC'26)** 
+🔭 Currently contributing to: **[Social Summer of Code](https://portal.socialsummerofcode.com/) (SSoC'26)** 
 
 ---
 
 ## 🚀 Projects
 
-### 🎙️ AI Video to Subtitle Generator
-> A tool designed to seamlessly extract audio from video files and generate highly accurate subtitles by leveraging the **OpenAI Whisper** by **Groq API**. Built for speed and precision.
+### 🎙️ [AI Video to Subtitle Generator](https://github.com/balafromtn/Subtitle-Generator-From-Video)
+> A Python-based application that extracts audio from videos and generates subtitles using Whisper through the Groq API. Designed to make video transcription faster and more accessible.
 
-### 🎬 AI Video Generator
-> An experimental project exploring generative AI by utilizing **CogVideoX-2B** an open-source model from **Hugging Face** to synthesize video content based on prompt inputs.
+### 🎬 [AI Video Generator](https://github.com/balafromtn/AI-Text-2-Video-Generator)
+> An experimental project that uses the CogVideoX-2B model to generate short videos from text prompts. Built to explore the capabilities and limitations of modern generative AI models.
 
-### 🤖 Clunde Chatbot
-> A conversational Multi-LLM, interactive AI chatbot interface built using **Puter.js** to handle user queries and simulate intelligent dialogue seamlessly.
+### 🤖 [Clunde Chatbot](https://github.com/balafromtn/Clunde-Chatbot)
+> A conversational AI chatbot built with Puter.js that supports multiple language models through a simple and interactive interface, allowing users to experiment with different AI responses in one place.
 
 ---
 
@@ -43,12 +43,22 @@ I enjoy experimenting with modern AI tools, participating in open-source ecosyst
 
 **Dev Tools**
 
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/Opencode-343434?style=for-the-badge&logo=opencode&logoColor=white)
+
+---
+
+## 🎯 Current Focus
+
+- Learning Machine Learning and AI fundamentals
+- Building real-world software projects
+- Improving problem-solving and software engineering skills
+- Contributing to open-source projects
+
 ---
 
 ## 📊 GitHub Stats
@@ -74,5 +84,5 @@ I enjoy experimenting with modern AI tools, participating in open-source ecosyst
 </p>
 
 <p align="center">
-  <i>Open to opportunities where good ideas meet good execution!</i>
+  <i>I'm always open to learning from others, collaborating on interesting projects, and connecting with developers who enjoy building useful things!</i>
 </p>
