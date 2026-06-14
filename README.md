@@ -54,11 +54,6 @@ I enjoy experimenting with modern AI tools, participating in open-source ecosyst
 ## 📊 GitHub Stats
 
 <p align="center">
- 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balafromtn&langs_count=6&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=balafromtn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
