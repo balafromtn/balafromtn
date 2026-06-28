@@ -20,14 +20,14 @@ Currently, I'm exploring machine learning, automation, and full-stack developmen
 
 ## 🚀 Projects
 
+### 🤖 [Clunde Chatbot](https://github.com/balafromtn/Clunde-Chatbot)
+> A conversational AI chatbot built with Puter.js that supports multiple language models through a simple and interactive interface, allowing users to experiment with different AI responses in one place.
+
 ### 🎙️ [AI Video to Subtitle Generator](https://github.com/balafromtn/Subtitle-Generator-From-Video)
 > A Python-based application that extracts audio from videos and generates subtitles using Whisper through the Groq API. Designed to make video transcription faster and more accessible.
 
 ### 🎬 [AI Video Generator](https://github.com/balafromtn/AI-Text-2-Video-Generator)
 > An experimental project that uses the CogVideoX-2B model to generate short videos from text prompts. Built to explore the capabilities and limitations of modern generative AI models.
-
-### 🤖 [Clunde Chatbot](https://github.com/balafromtn/Clunde-Chatbot)
-> A conversational AI chatbot built with Puter.js that supports multiple language models through a simple and interactive interface, allowing users to experiment with different AI responses in one place.
 
 ---
 
