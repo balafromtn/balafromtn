@@ -48,7 +48,6 @@ Currently, I'm exploring machine learning, automation, and full-stack developmen
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white)
-![OpenCode](https://img.shields.io/badge/Opencode-343434?style=for-the-badge&logo=opencode&logoColor=white)
 
 ---
 
