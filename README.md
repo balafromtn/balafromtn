@@ -14,8 +14,6 @@ I'm a B.Sc. Computer Science student passionate about AI, software development, 
 
 Currently, I'm exploring machine learning, automation, and full-stack development while strengthening my programming fundamentals. I enjoy turning ideas into working applications, contributing to open-source projects, and continuously learning new technologies.
 
-🔭 Currently contributing to: **[Social Summer of Code](https://portal.socialsummerofcode.com/) (SSoC'26)** 
-
 ---
 
 ## 🚀 Projects
@@ -62,7 +60,7 @@ Currently, I'm exploring machine learning, automation, and full-stack developmen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balafromtn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github.pumbas.net/api/contributions/balafromtn?colour=4CD2FC&borderRadius=3"/>
 </p>
 
 ---
