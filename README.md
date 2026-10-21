@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:007ACC&text=Balaji%20M&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20AI/ML%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Focus-AI/ML%20%26%20SWE-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Learning%20and%20Building-ff6b6b?style=flat-square" />
-</p>
-
 ---
 
 ## 👋 Hey, I'm Balaji
