@@ -51,14 +51,6 @@ Currently, I'm exploring machine learning, automation, and full-stack developmen
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github.pumbas.net/api/contributions/balafromtn?colour=4CD2FC&borderRadius=3"/>
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
